@@ -31,3 +31,7 @@ dir								//查看有哪些文件夹
 $ git rm -r --cached Photo\ albums  //删除Photo albums文件夹(文件夹名有空格命令行需要用"\ "来拼接）
 git commit -m "内容"
 git push -u origin master		//上传服务器
+
+//修改远程仓库
+git remote rm origin		//删除远程git仓库
+git remote add origin git@github.com:Virusxxxxxxx/Qt.git	//再添加
