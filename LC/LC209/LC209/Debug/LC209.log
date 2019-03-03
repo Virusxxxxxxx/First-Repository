@@ -1,0 +1,6 @@
+﻿  源.cpp
+d:\c\lc209\lc209\源.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+d:\c\lc209\lc209\源.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+d:\c\lc209\lc209\源.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+  LC209.vcxproj -> D:\C\LC209\Debug\LC209.exe
+  LC209.vcxproj -> D:\C\LC209\Debug\LC209.pdb (Partial PDB)

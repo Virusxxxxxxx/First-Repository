@@ -1,0 +1,6 @@
+﻿  源.cpp
+d:\c\lc\旋转数组\旋转数组\源.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+d:\c\lc\旋转数组\旋转数组\源.cpp(15): warning C4018: “>=”: 有符号/无符号不匹配
+d:\c\lc\旋转数组\旋转数组\源.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+  旋转数组.vcxproj -> D:\C\LC\旋转数组\Debug\旋转数组.exe
+  旋转数组.vcxproj -> D:\C\LC\旋转数组\Debug\旋转数组.pdb (Partial PDB)

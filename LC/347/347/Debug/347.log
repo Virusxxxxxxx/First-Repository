@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\c\lc\347\347\源.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+  347.vcxproj -> D:\C\LC\347\Debug\347.exe
+  347.vcxproj -> D:\C\LC\347\Debug\347.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\c\lc\颠倒整数\颠倒整数\源.cpp(28): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  颠倒整数.vcxproj -> D:\C\LC\颠倒整数\Debug\颠倒整数.exe
+  颠倒整数.vcxproj -> D:\C\LC\颠倒整数\Debug\颠倒整数.pdb (Partial PDB)

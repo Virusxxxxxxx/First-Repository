@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\c\lc\两数之和\两数之和\源.cpp(34): warning C4101: “ready2”: 未引用的局部变量
+  两数之和.vcxproj -> D:\C\LC\两数之和\Debug\两数之和.exe
+  两数之和.vcxproj -> D:\C\LC\两数之和\Debug\两数之和.pdb (Partial PDB)

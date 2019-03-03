@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\c\lc\加一\加一\源.cpp(11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\c\lc\加一\加一\源.cpp(103): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  加一.vcxproj -> D:\C\LC\加一\x64\Debug\加一.exe
+  加一.vcxproj -> D:\C\LC\加一\x64\Debug\加一.pdb (Partial PDB)

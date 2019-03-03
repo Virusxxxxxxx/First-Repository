@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\c\lc\反转字符串\反转字符串\源.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+  反转字符串.vcxproj -> D:\C\LC\反转字符串\Debug\反转字符串.exe
+  反转字符串.vcxproj -> D:\C\LC\反转字符串\Debug\反转字符串.pdb (Partial PDB)
