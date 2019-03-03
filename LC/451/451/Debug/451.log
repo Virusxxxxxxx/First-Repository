@@ -1,5 +1,0 @@
-﻿  源.cpp
-d:\c\lc\451\451\源.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
-d:\c\lc\451\451\源.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
-  451.vcxproj -> D:\C\LC\451\Debug\451.exe
-  451.vcxproj -> D:\C\LC\451\Debug\451.pdb (Partial PDB)
