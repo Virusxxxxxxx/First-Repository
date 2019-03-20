@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\c\lc\476 数字的补数\476 数字的补数\源.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+d:\c\lc\476 数字的补数\476 数字的补数\源.cpp(25): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  476 数字的补数.vcxproj -> D:\C\LC\476 数字的补数\Debug\476 数字的补数.exe
+  476 数字的补数.vcxproj -> D:\C\LC\476 数字的补数\Debug\476 数字的补数.pdb (Partial PDB)

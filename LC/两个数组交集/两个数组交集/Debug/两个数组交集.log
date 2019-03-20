@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\c\lc\两个数组交集\两个数组交集\源.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+d:\c\lc\两个数组交集\两个数组交集\源.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+  两个数组交集.vcxproj -> D:\C\LC\两个数组交集\Debug\两个数组交集.exe
+  两个数组交集.vcxproj -> D:\C\LC\两个数组交集\Debug\两个数组交集.pdb (Partial PDB)

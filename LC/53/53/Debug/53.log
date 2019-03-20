@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\c\lc\53\53\源.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+d:\c\lc\53\53\源.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+  53.vcxproj -> D:\C\LC\53\Debug\53.exe
+  53.vcxproj -> D:\C\LC\53\Debug\53.pdb (Partial PDB)
